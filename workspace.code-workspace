@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\HTML Only"
+		},
+		{
+			"path": "..\\html+css+js"
+		},
+		{
+			"path": "..\\instagram"
+		},
+		{
+			"path": "..\\WebSite1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cybersqaure"
+	}
+}
